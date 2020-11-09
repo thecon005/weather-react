@@ -1,10 +1,3 @@
-html,
-body {
-  font-family: "Mukta", sans-serif;
-  color: #fff;
-  text-align: center;
-}
-
 #icon {
   filter: brightness(100);
   width: 60px;
@@ -17,11 +10,4 @@ body {
   height: 40px;
   margin-top: -15px;
   margin-bottom: -15px;
-}
-
-.container-fluid {
-  border-color: #397f95;
-  padding-top: 1px;
-  max-width: 325px;
-  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
 }
