@@ -5,15 +5,6 @@ body {
   text-align: center;
 }
 
-h4 {
-  font-size: 40px;
-}
-p {
-  margin-top: -5px;
-}
-a {
-  color: #3d8498;
-}
 #icon {
   filter: brightness(100);
   width: 60px;
@@ -28,57 +19,9 @@ a {
   margin-bottom: -15px;
 }
 
-#celsius,
-#fahrenheit {
-  font-size: 20px;
-  color: #fff;
-  text-decoration: none;
-}
-.advice {
-  text-transform: capitalize;
-}
-.row {
-  padding: 10px;
-}
-.left {
-  float: left;
-}
-.right {
-  float: right;
-}
-.monday {
-  background-color: #6ab7b7;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.tuesday {
-  background-color: #58a3ab;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.wednesday {
-  background-color: #3d8498;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.thursday {
-  background-color: #276b88;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.friday {
-  background-color: #17597d;
-  margin-left: -15px;
-  margin-right: -15px;
-}
 .container-fluid {
   border-color: #397f95;
   padding-top: 1px;
   max-width: 325px;
   background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
-}
-.source {
-  color: #6ab7b7;
-  hover-color: #17597d;
-  padding: 5px;
 }
